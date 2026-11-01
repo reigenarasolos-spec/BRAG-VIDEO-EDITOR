@@ -1,8 +1,13 @@
+
+
 A video editor designed to have as little screens as possible. This editor is inspire by popular music production DAWs. This takes the playlist style of editing and adds it into a video editor
 
 DISCLAIMER: THIS PROJECT WAS VIBECODED WITH CLAUDE OPUS 5.5 PRO
 
 VST FX SUPPORT PLANNED
+
+SUPPORT
+https://patreon.com/BRAGEDITOR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 
 TO DOWNLOAD
 1. CLICK THE FILE IN RELEASES
