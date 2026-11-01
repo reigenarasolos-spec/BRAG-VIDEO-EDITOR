@@ -7,6 +7,9 @@ TO DOWNLOAD
 2. EXTRACT THE FILE USING A FILE EXTRACTER (WinRar)
 3. OPEN "Born Again Video Editor.exe"
 
+
+Images
+
 <img width="1264" height="958" alt="image" src="https://github.com/user-attachments/assets/715e732f-00a5-4b33-adf4-9146d9036c20" />
 
 
