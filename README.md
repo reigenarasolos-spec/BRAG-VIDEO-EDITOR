@@ -6,7 +6,7 @@ DISCLAIMER: THIS PROJECT WAS VIBECODED WITH CLAUDE OPUS 5.5 PRO
 
 VST FX SUPPORT PLANNED
 
-<div style="position:relative;"><a href="https://www.patreon.com/BRAGEDITOR" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+<div style="position:relative;"><a href="https://www.patreon.com/BRAGEDITOR" data-patreon-widget-type="become-patron-button">Support us HERE (Early Updates)</a>
 
 TO DOWNLOAD
 1. CLICK THE FILE IN RELEASES
