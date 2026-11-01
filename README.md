@@ -18,4 +18,6 @@ Images
 
 <img width="314" height="340" alt="image" src="https://github.com/user-attachments/assets/b4fdc582-3fa4-4c73-9203-37e6437de0b9" />
 
+The Packs folder is unique per user
+
 
