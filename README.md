@@ -1,6 +1,6 @@
 
 
-A video editor designed to have as little screens as possible. This editor is inspire by popular music production DAWs. This takes the playlist style of editing and adds it into a video editor
+A video editor designed to have as little screens as possible. This editor is inspired by popular music production DAWs. This takes the playlist style of editing and adds it into a video editor
 
 DISCLAIMER: THIS PROJECT WAS VIBECODED WITH CLAUDE OPUS 5.5 PRO USING UNITYMCP
 
